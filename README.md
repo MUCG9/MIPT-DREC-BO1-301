@@ -8,7 +8,12 @@
 
 <h3> Задавальники: </h3>
 <ul>
-  <li><h5> Математический анализ </h5></li>
-  <li><h5> Аналитическая геометрия </h5></li>
-  <li><h5> Дискретный анализ </h5></li>
+  <li><h5><a href="https://disk.yandex.ru/i/o_oD1Ixyws8L8A"> Математический анализ </a></h5></li>
+  <li><h5><a href="https://disk.yandex.ru/i/egXLXNh4NKd0Pw"> Аналитическая геометрия </a></h5></li>
+</ul>
+
+<h3> Задавальники: </h3>
+<ul>
+  <li><h5><a href="https://disk.yandex.ru/d/8Bs9YhHWKAQtww"> Математический анализ </a></h5></li>
+  <li><h5><a href="https://disk.yandex.ru/d/bryM5oRBwyxY4g"> Аналитическая геометрия </a></h5></li>
 </ul>
