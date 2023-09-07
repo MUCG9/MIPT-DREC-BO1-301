@@ -14,11 +14,25 @@
 
 <h3> Полезные материалы: </h3>
 <ul>
+  
   <li><h5>
-    <a href="https://disk.yandex.ru/d/8Bs9YhHWKAQtww"> Математический анализ </a> <br>
-    Mathprofi: http://mathprofi.ru/
+    <a href="https://disk.yandex.ru/d/8Bs9YhHWKAQtww"> Математический анализ </a>
   </h5></li>
-  <li><h5><a href="https://disk.yandex.ru/d/bryM5oRBwyxY4g"> Аналитическая геометрия </a></h5></li>
-  <li><h5><a href="https://disk.yandex.ru/d/34eYZi0yFQ2Pkw"> Дискретный анализ </a></h5></li>
-  <li><h5><a href="https://disk.yandex.ru/d/YOSurTlMK2YGRQ"> Общая физика </a></h5></li>
+  
+  <li><h5>
+    <a href="https://disk.yandex.ru/d/bryM5oRBwyxY4g"> Аналитическая геометрия </a>
+  </h5></li>
+  
+  <li><h5>
+    <a href="https://disk.yandex.ru/d/34eYZi0yFQ2Pkw"> Дискретный анализ </a>
+  </h5></li>
+  
+  <li><h5>
+    <a href="https://disk.yandex.ru/d/YOSurTlMK2YGRQ"> Общая физика </a>
+  </h5></li>
+  
+  <li><h5>
+    <a href="http://mathprofi.ru/"> Высшая математика </a>
+  </h5></li>
+  
 </ul>
