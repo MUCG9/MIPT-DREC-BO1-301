@@ -4,7 +4,7 @@
 
 <h3> <a href="https://docs.google.com/spreadsheets/d/1lxrZGSIz-qgB3IUCdPP20y19eYOQU5ldsk-IoPtHJTo/edit?usp=sharing" target="_blank">Google-таблица с дедлайнами домашних работ </a></h3>
 
-<h3> <a href="" target="_blank"> Google-таблица с расписанием пар и дополнительных курсов </a></h3>
+<h3> <a href="https://docs.google.com/spreadsheets/d/1NhgC8GYDORPPVt5tnOmpKZgeLDWxCSuJOs6ZLLTT5HQ/edit?usp=sharing" target="_blank"> Google-таблица с расписанием пар и дополнительных курсов </a></h3>
 
 <h3> Задавальники: </h3>
 <ul>
