@@ -15,7 +15,7 @@
 <h3> Полезные материалы: </h3>
 <ul>
   <li><h5>
-    <a href="https://disk.yandex.ru/d/8Bs9YhHWKAQtww"> Математический анализ </a>
+    <a href="https://disk.yandex.ru/d/8Bs9YhHWKAQtww"> Математический анализ </a> //
     Mathprofi: http://mathprofi.ru/
   </h5></li>
   <li><h5><a href="https://disk.yandex.ru/d/bryM5oRBwyxY4g"> Аналитическая геометрия </a></h5></li>
