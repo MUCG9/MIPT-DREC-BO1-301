@@ -12,9 +12,7 @@
 
 <h3> <a href="https://docs.google.com/spreadsheets/d/1zap4In6n6XqC430eXM7azjkfOr3ll5SpctiEmxHDE-Q/edit#gid=1455075568" target="_blank"> Плюсник по сдачам задач по общей физике </a></h3>
 
-<h3> <a href="https://docs.google.com/spreadsheets/d/1zap4In6n6XqC430eXM7azjkfOr3ll5SpctiEmxHDE-Q/edit#gid=1455075568" target="_blank"> Плюсник по сделанным задачам в катальнике</a></h3>
-
-https://docs.google.com/spreadsheets/d/109QaFk05xA6v52FXD88cLToK0hHRsejo1icJbUhHJDo/edit?usp=sharing
+<h3> <a href="https://docs.google.com/spreadsheets/d/109QaFk05xA6v52FXD88cLToK0hHRsejo1icJbUhHJDo/edit?usp=sharing" target="_blank"> Плюсник по сделанным задачам в катальнике</a></h3>
 
 <h3> Задавальники: </h3>
 <ul>
