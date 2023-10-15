@@ -18,6 +18,7 @@
 <ul>
   <li><h5><a href="https://disk.yandex.ru/i/VjetFPwCSgmhfA" target="_blank"> Математический анализ </a></h5></li>
   <li><h5><a href="https://disk.yandex.ru/i/PujoXj8h9g3LeQ" target="_blank"> Аналитическая геометрия </a></h5></li>
+  <li><h5><a href="https://disk.yandex.ru/i/ifsSNS62T_FNuw" target="_blank"> Общая физика </a></h5></li>
 </ul>
 
 <h3> Полезные материалы: </h3>
