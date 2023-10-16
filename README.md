@@ -6,8 +6,6 @@
 
 <h3> <a href="https://docs.google.com/spreadsheets/d/1NhgC8GYDORPPVt5tnOmpKZgeLDWxCSuJOs6ZLLTT5HQ/edit?usp=sharing" target="_blank"> Google-таблица с расписанием пар и дополнительных курсов </a></h3>
 
-<h3> <a href="https://disk.yandex.ru/d/6i186rnIV31gAQ" target="_blank"> Катаем дз всем РТ </a></h3>
-
 <h3> <a href="https://disk.yandex.ru/d/e2J8JzYpGaMbKA" target="_blank"> Папка с фотками лучшей группы, получается </a></h3>
 
 <h3> <a href="https://docs.google.com/spreadsheets/d/1zap4In6n6XqC430eXM7azjkfOr3ll5SpctiEmxHDE-Q/edit#gid=1455075568" target="_blank"> Плюсник по сдачам задач по общей физике </a></h3>
