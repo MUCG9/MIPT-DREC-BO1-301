@@ -16,6 +16,7 @@
 <ul>
   <li><h5><a href="https://old.mipt.ru/education/chair/mathematics/process/vesna/2024/1/4.pdf" target="_blank"> Математический анализ </a></h5></li>
   <li><h5><a href="https://old.mipt.ru/education/chair/mathematics/process/vesna/2024/1/1.pdf" target="_blank"> Линейна алгебра </a></h5></li>
+  <li><h5><a href="https://old.mipt.ru/education/chair/mathematics/process/vesna/2024/1/10.pdf" target="_blank"> Теория вероятностей </a></h5></li>
   <li><h5><a href="https://old.mipt.ru/upload/medialibrary/f5b/2sem_pmf_2023_2024.pdf" target="_blank"> Общая физика </a></h5></li>
 </ul>
 
