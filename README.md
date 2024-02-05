@@ -14,9 +14,9 @@
 
 <h3> Задавальники: </h3>
 <ul>
-  <li><h5><a href="https://disk.yandex.ru/i/VjetFPwCSgmhfA" target="_blank"> Математический анализ </a></h5></li>
-  <li><h5><a href="https://disk.yandex.ru/i/PujoXj8h9g3LeQ" target="_blank"> Аналитическая геометрия </a></h5></li>
-  <li><h5><a href="https://disk.yandex.ru/i/ifsSNS62T_FNuw" target="_blank"> Общая физика </a></h5></li>
+  <li><h5><a href="https://old.mipt.ru/education/chair/mathematics/process/vesna/2024/1/4.pdf" target="_blank"> Математический анализ </a></h5></li>
+  <li><h5><a href="https://old.mipt.ru/education/chair/mathematics/process/vesna/2024/1/1.pdf" target="_blank"> Линейна алгебра </a></h5></li>
+  <li><h5><a href="https://old.mipt.ru/upload/medialibrary/f5b/2sem_pmf_2023_2024.pdf" target="_blank"> Общая физика </a></h5></li>
 </ul>
 
 <h3> Полезные материалы: </h3>
@@ -28,10 +28,6 @@
   
   <li><h5>
     <a href="https://disk.yandex.ru/d/EMAhLEd5P29gVw" target="_blank"> Аналитическая геометрия </a>
-  </h5></li>
-  
-  <li><h5>
-    <a href="https://disk.yandex.ru/d/COXFZ__4NLlwTg" target="_blank"> Дискретный анализ </a>
   </h5></li>
   
   <li><h5>
