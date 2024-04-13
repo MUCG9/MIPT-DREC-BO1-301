@@ -7,10 +7,19 @@
      - <a href="https://disk.yandex.ru/i/ZovcV4H3lYR2cw">Program and exersises</a>
    - Analytic geometry
      - <a href="https://disk.yandex.ru/i/3yrsucB3VZGN_w">Program and exersises</a>
-    - Physics
-     - <a href="https://disk.yandex.ru/i/3yrsucB3VZGN_w">Program and exersises</a>
-    - Discrete analysis
+   - Physics
+     - <a href="https://disk.yandex.ru/i/BSAjHxGLAj6kzw">Program and exersises</a>
+   - Discrete analysis
      - <a href=""></a>
-     
-  
+
+2. Second semester
+  - Calculus
+     - <a href="https://disk.yandex.ru/i/adqOCo5RFQJGIQ">Program and exersises</a>
+   - Linear algebra
+     - <a href="https://disk.yandex.ru/i/IgZ8O_C5XTsx2g">Program and exersises</a>
+   - Physics
+     - <a href="https://disk.yandex.ru/i/pul0qAvm1RSzOw">Program and exersises</a>
+     - <a href="https://disk.yandex.ru/i/pul0qAvm1RSzOw">Recorded lessons</a>
+   - Probability theory
+     - <a href="https://disk.yandex.ru/i/MsAgrWPXuhyg-A">Program and exersises</a>
 
