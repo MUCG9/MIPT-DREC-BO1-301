@@ -19,7 +19,7 @@
      - <a href="https://disk.yandex.ru/i/IgZ8O_C5XTsx2g">Program and exersises</a>
    - Physics
      - <a href="https://disk.yandex.ru/i/pul0qAvm1RSzOw">Program and exersises</a>
-     - <a href="https://disk.yandex.ru/i/pul0qAvm1RSzOw">Recorded lessons</a>
+     - <a href="https://youtube.com/playlist?list=PLrNOB5DIKrINAK1vIzAmVpE2r664TJJf6&si=8EmULPBEkaQOTHCP">Recorded lessons</a>
    - Probability theory
      - <a href="https://disk.yandex.ru/i/MsAgrWPXuhyg-A">Program and exersises</a>
 
