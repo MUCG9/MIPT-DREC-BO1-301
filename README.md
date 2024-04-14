@@ -5,10 +5,16 @@
 **1. First semester**
    - _Calculus_
      - <a href="https://disk.yandex.ru/i/ZovcV4H3lYR2cw">Program and exersises</a>
+     - <a href="https://disk.yandex.ru/i/zuiXIq1HUJZzXA">Our lecture's book</a>
+     - <a href="https://disk.yandex.ru/i/FPufRUXlhnwitQ">Problem book</a>
    - _Analytic geometry_
      - <a href="https://disk.yandex.ru/i/3yrsucB3VZGN_w">Program and exersises</a>
+     - <a href="https://disk.yandex.ru/i/WXY33zDBt_6zBQ">Problem book</a>
+     - <a href="https://disk.yandex.ru/i/dqz24tZYClDVpA">Textbook</a>
    - _Physics_
      - <a href="https://disk.yandex.ru/i/BSAjHxGLAj6kzw">Program and exersises</a>
+     - <a href="https://disk.yandex.ru/i/bk8iWvW5q4VJqQ">Problem book</a>
+     - <a href="https://disk.yandex.ru/i/GXnqhtBHHYOKWA">Textbook</a>
    - _Discrete analysis_
      - <a href=""></a>
 
