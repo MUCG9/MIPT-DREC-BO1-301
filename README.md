@@ -13,7 +13,7 @@
      - <a href="https://disk.yandex.ru/i/dqz24tZYClDVpA">Textbook</a>
    - _Physics_
      - <a href="https://disk.yandex.ru/i/BSAjHxGLAj6kzw">Program and exersises</a>
-     - <a href="https://disk.yandex.ru/i/bk8iWvW5q4VJqQ">Problem book</a>
+     - <a href="https://disk.yandex.ru/i/RV60zoz2sJLZsA">Problem book</a>
      - <a href="https://disk.yandex.ru/i/GXnqhtBHHYOKWA">Textbook</a>
    - _Discrete analysis_
      - <a href=""></a>
