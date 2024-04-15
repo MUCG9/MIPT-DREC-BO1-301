@@ -35,4 +35,5 @@
      - <a href="https://youtube.com/playlist?list=PLrNOB5DIKrINAK1vIzAmVpE2r664TJJf6&si=8EmULPBEkaQOTHCP">Recorded lessons</a>
    - _Probability theory_
      - <a href="https://disk.yandex.ru/i/MsAgrWPXuhyg-A">Program and exersises</a>
+     - <a href="https://disk.yandex.ru/i/F8C3nQzj7Rw5sw">Our lecture's book</a>
 
