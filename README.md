@@ -31,6 +31,7 @@
      - <a href="https://disk.yandex.ru/i/pul0qAvm1RSzOw">Program and exersises</a>
      - <a href="https://disk.yandex.ru/i/qNhcsSfQBq0Alg">Problem book</a>
      - <a href="https://disk.yandex.ru/i/Gr_epkK40mNr5A">Textbook</a>
+     - <a href="https://disk.yandex.ru/i/HM5qBNB92q7sWg">Our lecture's book</a>
      - <a href="https://youtube.com/playlist?list=PLrNOB5DIKrINAK1vIzAmVpE2r664TJJf6&si=8EmULPBEkaQOTHCP">Recorded lessons</a>
    - _Probability theory_
      - <a href="https://disk.yandex.ru/i/MsAgrWPXuhyg-A">Program and exersises</a>
