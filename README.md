@@ -2,7 +2,7 @@
 <img src="https://github.com/Volkodav07/B01-301/blob/main/logo.png" height="32"/></h1>
 <h3 align="center">All saved materials from lessons in MIPT DREC by <a href="https://t.me/almirnasyrov" target="_blank">N.Almir</a> </h3>
 
-**###1. First semester**
+**1. First semester**
    - _Calculus_
      - <a href="https://disk.yandex.ru/i/ZovcV4H3lYR2cw">Program and exersises</a>
      - <a href="https://disk.yandex.ru/i/zuiXIq1HUJZzXA">Our lecture's book</a>
@@ -18,7 +18,7 @@
    - _Discrete analysis_
      - <a href=""></a>
 
-**###2. Second semester**
+**2. Second semester**
   - _Calculus_
      - <a href="https://disk.yandex.ru/i/adqOCo5RFQJGIQ">Program and exersises</a>
      - <a href="https://disk.yandex.ru/i/N_ul3dRRVa3_PQ">Our lecture's book</a>
