@@ -11,12 +11,12 @@
      - <a href="https://disk.yandex.ru/i/FPufRUXlhnwitQ">Задачи (Кудрявцев)</a>
    - _Аналитическая геометрия_
      - <a href="https://disk.yandex.ru/i/3yrsucB3VZGN_w">Программа семестраs</a>
-     - <a href="https://disk.yandex.ru/i/WXY33zDBt_6zBQ">Задачи (Беклимишев)</a>
-     - <a href="https://disk.yandex.ru/i/dqz24tZYClDVpA">Книга (Беклимишев</a>
+     - <a href="https://disk.yandex.ru/i/WXY33zDBt_6zBQ">Задачи (Беклeмишев)</a>
+     - <a href="https://disk.yandex.ru/i/dqz24tZYClDVpA">Книга (Беклeмишев)</a>
    - _Физика_
      - <a href="https://disk.yandex.ru/i/BSAjHxGLAj6kzw">Программа семестра</a>
      - <a href="https://disk.yandex.ru/i/RV60zoz2sJLZsA">Задачи (Овчинкин)</a>
-     - <a href="https://disk.yandex.ru/i/GXnqhtBHHYOKWA">Книга (Сивухин</a>
+     - <a href="https://disk.yandex.ru/i/GXnqhtBHHYOKWA">Книга (Сивухин)</a>
 
 **2. Второй семестр**
   - _Математический анализ_
@@ -25,8 +25,8 @@
      - <a href="https://disk.yandex.ru/i/zjUsbT3wFo6baw">Задачи (Кудрявцев)</a>
    - _Линейная алгебра_
      - <a href="https://disk.yandex.ru/i/IgZ8O_C5XTsx2g">Программа семестра</a>
-     - <a href="https://disk.yandex.ru/i/j4aC4Cv8vBuSyw">Задачи (Беклимишев)</a>
-     - <a href="https://disk.yandex.ru/i/e98BLin-1J4f-g">Книга (Беклимишев)</a>
+     - <a href="https://disk.yandex.ru/i/j4aC4Cv8vBuSyw">Задачи (Беклeмишев)</a>
+     - <a href="https://disk.yandex.ru/i/e98BLin-1J4f-g">Книга (Беклeмишев)</a>
    - _Физика_
      - <a href="https://disk.yandex.ru/i/pul0qAvm1RSzOw">Программа семестра</a>
      - <a href="https://disk.yandex.ru/i/qNhcsSfQBq0Alg">Задачи (Кудрявцев)</a>
