@@ -10,7 +10,7 @@
      - <a href="https://disk.yandex.ru/i/zuiXIq1HUJZzXA">Лекции Петровича</a>
      - <a href="https://disk.yandex.ru/i/FPufRUXlhnwitQ">Задачи (Кудрявцев)</a>
    - _Аналитическая геометрия_
-     - <a href="https://disk.yandex.ru/i/3yrsucB3VZGN_w">Программа семестраs</a>
+     - <a href="https://disk.yandex.ru/i/3yrsucB3VZGN_w">Программа семестра</a>
      - <a href="https://disk.yandex.ru/i/WXY33zDBt_6zBQ">Задачи (Беклeмишев)</a>
      - <a href="https://disk.yandex.ru/i/dqz24tZYClDVpA">Книга (Беклeмишев)</a>
    - _Физика_
